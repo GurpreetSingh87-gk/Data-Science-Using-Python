@@ -15,8 +15,8 @@ Welcome to my Data Science Using Python repository. This repository contains pro
 
   ---
 
-  ## Python Libraries Used
-  - Numpy
+  ## 🐍 Python Libraries Used
+  - <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>Numpy
   - Pnadas
   - Tkinter
   - Matplotlib.pyplot
