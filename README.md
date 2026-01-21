@@ -5,12 +5,12 @@ Welcome to my Data Science Using Python repository. This repository contains pro
 ---
 
 ## 📚 Topics Covered
-- Numpy Basics (Arrays Dimensions, Attributes, Functions, Indexing, Slicing, Operations on Array)
-- Pandas (Series: Attributes and Functions, DataFrame: Indexing, Slicing, Manipulating, Grouping, Filtering)
-- Oops (Class, Object, Encapsulation, Inheritance, Abstraction, and Polymorphism)
-- Statistical Functions (Mean, Median, Mode, Variance, Standard Deviation)
-- Matplotlib (Line, Scatter, Density, Contour, Subplots, Histogram Plots, and Bar Charts)
-- GUI-Tkinter (Tkinter Widgets, Geometrical Management, Binding Functions)
+- **Numpy Basics** (Arrays Dimensions, Attributes, Functions, Indexing, Slicing, Operations on Array)
+- **Pandas** (Series: Attributes and Functions, DataFrame: Indexing, Slicing, Manipulating, Grouping, Filtering)
+- **Oops** (Class, Object, Encapsulation, Inheritance, Abstraction, and Polymorphism)
+- **Statistical** Functions (Mean, Median, Mode, Variance, Standard Deviation)
+- **Matplotlib** (Line, Scatter, Density, Contour, Subplots, Histogram Plots, and Bar Charts)
+- **GUI-Tkinter** (Tkinter Widgets, Geometrical Management, Binding Functions)
 
 ---
 
