@@ -1,4 +1,4 @@
-# 🐍 Data-Science-Using-Python
+# 🐍 Data Science Using Python Programs
 
 Welcome to my Data Science Using Python repository. This repository contains programs based on the fundamental concepts of data science. Each program focuses on data creation, cleaning, analysis, and manipulation.
 
