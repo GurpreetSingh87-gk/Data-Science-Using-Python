@@ -16,6 +16,22 @@ Welcome to my Data Science Using Python repository. This repository contains pro
 ---
 
 ## 🐍 Python Libraries Used
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> <b>NumPy</b><br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="25"/> <b>Pandas</b><br>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tkinter_logo.png" width="25"/> <b>Tkinter</b><br>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="25"/> <b>Matplotlib (pyplot)</b><br>
+
+  📊 <b>Statistics</b>
+</p>
+
+---
+
+## 🐍 Python Libraries Used
 - 🧮 NumPy
 - 🐼 Pandas
 - 🪟 Tkinter
