@@ -13,19 +13,19 @@ Welcome to my Data Science Using Python repository. This repository contains pro
 - Matplotlib (Line, Scatter, Density, Contour, Subplots, Histogram Plots, and Bar Charts)
 - GUI-Tkinter (Tkinter Widgets, Geometrical Management, Binding Functions)
 
-  ---
+---
 
-  ## 🐍 Python Libraries Used
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> Numpy
-  - Pnadas
-  - Tkinter
-  - Matplotlib.pyplot
-  - Statistics
+## 🐍 Python Libraries Used
+- 🧮 NumPy
+- 🐼 Pandas
+- 🪟 Tkinter
+- 📈 Matplotlib
+- 📊 Statistics
 
-    ---
+---
 
-  ## 🧠 Purpose
-  The purpose of creating these programs is to understand how to convert a raw data into meaningful information by using
-  techniques like data processing, analysis cleaning, manipulation, and visualization etc. 
+## 🧠 Purpose
+The purpose of creating these programs is to understand how to convert a raw data into meaningful information by using
+techniques like data processing, analysis cleaning, manipulation, and visualization etc. 
   
   
