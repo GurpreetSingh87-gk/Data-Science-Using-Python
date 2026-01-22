@@ -21,9 +21,13 @@ Welcome to my Data Science Using Python repository. This repository contains pro
 
 ## 🐍 Python Libraries Used
 - 🧮 NumPy
+  
 - 🐼 Pandas
+  
 - 🪟 Tkinter
+  
 - 📈 Matplotlib
+  
 - 📊 Statistics
 
 ---
